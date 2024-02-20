@@ -1,9 +1,9 @@
 ### smarttime16n.github.io
-# Encabezados
+# Este es el encabezado mas grande usando markdown
 
-## Encabezado de segundo nivel
+## Encabezado de segundo
 
-### Encabezado de tercer nivel
+### Encabezado tercero y etc.
 
 ...
 
