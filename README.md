@@ -25,11 +25,13 @@
 
 # Enlaces
 
-[Texto del enlace](http://www.ejemplo.com)
+[Texto del enlace](https://www.google.com/)
 
 # Imágenes
 
-![Texto alternativo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-premium%2Fcentro-ciudad-amsterdam-paisaje-urbano-holanda-al-atardecer_21672992.htm&psig=AOvVaw3pFDXvd_vOIXYP3bCsF7wC&ust=1708476410612000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCsp97YuIQDFQAAAAAdAAAAABAI)
+![Texto alternativo](https://previews.123rf.com/images/yasonya/yasonya1705/yasonya170500017/79191668-el-puente-sobre-el-canal-en-amsterdam-pa%C3%ADses-bajos-contiene-el-paisaje-europeo-viejo-de-la-primavera.jpg)
+![Texto alternativo](https://i.ytimg.com/vi/jjVCfJ6GTko/maxresdefault.jpg)
+![Texto alternativo](https://gradanorte.mx/wp-content/uploads/2022/05/cruce-bahia.jpg)
 
 # Citas
 
